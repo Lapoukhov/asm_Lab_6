@@ -1,5 +1,6 @@
 ## asmsembler lab №6
 ### Task:
+Graphical mode.
 
 ### Code:
 ```
