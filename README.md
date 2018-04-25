@@ -1,6 +1,6 @@
 ## asmsembler lab №6
 ### Task:
-Graphical mode. Draw
+Graphical mode. Draw a
 ### Code:
 ```
         org 100h
