@@ -1,6 +1,6 @@
 ## asmsembler lab №6
 ### Task:
-Graphical mode. Draw a house
+Graphical mode. Draw a house.
 ### Code:
 ```
         org 100h
